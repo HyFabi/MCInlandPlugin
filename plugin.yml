@@ -1,6 +1,0 @@
-main: at.hyfabi.inlandplugin.Main
-name: InlandPlugin
-version: Alpha 1.0
-author: HyFabi
-description: This plugin is for Fritz!
-commands:  
